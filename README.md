@@ -1,2 +1,2 @@
 # awroda csci580 assignment 3
- assignment 3 repo
+This repo contains the files for my solution to Assignment 3
